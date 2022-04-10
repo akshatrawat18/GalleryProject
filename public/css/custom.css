@@ -1,0 +1,11 @@
+.imageDiv div:nth-child(5n) {
+    clear: left;
+}
+
+.imageDiv div:nth-child(9n) {
+    clear: left;
+}
+
+.imageDiv div:nth-child(10n) {
+    clear: right;
+}
